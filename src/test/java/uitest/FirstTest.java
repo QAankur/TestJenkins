@@ -12,5 +12,6 @@ public class FirstTest {
 		System.out.println("Passed value for parameters is" + browser);
 		System.out.println("Jenkins is up and running and working");
 		System.out.println("Adding this line to test webhooks");
+		System.out.println("Adding this line to test SCM");
 	}
 }
